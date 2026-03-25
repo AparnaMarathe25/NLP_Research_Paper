@@ -1,0 +1,10 @@
+STS-B Results:
+Model	      Pearson	Spearman
+BERT-CLS	0.292	0.317
+BERT-mean	0.592	0.593
+SBERT	        0.870	0.867
+
+QQP Results:
+Model	       Threshold	Valid F1	Test Acc	Test F1
+BERT-mean	0.840	        0.653	         0.663	        0.642
+SBERT	        0.740	        0.747	         0.755	        0.729
